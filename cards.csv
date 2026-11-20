@@ -1,0 +1,549 @@
+Kanji,Meaning,Onyomi,Kunyomi,Vocabulary
+一,One,"いち
+ichi","ひと(つ)
+hito(tsu)","一人
+hitori
+(one person, alone)"
+二,Two,"に
+ni","ふた(つ)
+futa(tsu)","二人
+futari
+(two people)"
+三,Three,"さん
+san","み(っつ)
+mi(ttsu)","三日
+mikka
+(3rd day of the month)"
+四,Four,"し
+shi","よ(っつ), よん
+yo(ttsu), yon","四日
+yokka
+(4th day of the month)"
+五,Five,"ご
+go","いつ(つ)
+itsu(tsu)","五日
+itsuka
+(5th day of the month)"
+六,Six,"ろく
+roku","む(っつ)、むい
+mu(ttsu), mui","六日
+muika
+(6th day of the month)"
+七,Seven,"しち
+shichi","なな(つ), なな
+nana(tsu), nana","七日
+nanoka
+(7th day of the month)"
+八,Eight,"はち
+hachi","や(っつ), よう
+ya(ttsu), you","八日
+youka
+(8th day of the month)"
+九,Nine,"きゅう, く
+kyuu, ku","ここの(つ)
+kokono(tsu)","九日
+kokonoka
+(9th day of the month)"
+十,Ten,"じゅう
+juu","とう, とお
+tou, too","十日
+tooka
+(10th day of the month)"
+百,Hundred,"ひゃく
+hyaku",n/a,"百円
+hyakuen
+(100 yen)"
+千,Thousand,"せん
+sen","ち
+chi","千円、千葉県
+senen, chibaken
+(1,000 yen), (Chiba prefecture)"
+万,Ten thousand,"まん
+man",n/a,"一万円、万年筆
+ichimanen, mannenpitsu
+(10,000 yen), (fountain pen)"
+億,Hundred-million,"おく
+oku",n/a,"一億円
+ichiokuen
+(100,000,000 yen)"
+日,"Day, sun","にち, じつ
+nichi, jitsu","ひ, か
+hi, ka","日曜日、休日
+nichiyoubi, kyuujitsu
+(Sunday), (holiday)"
+週,Week,"しゅう
+shuu",n/a,"来週、週末
+raishuu, shuumatsu
+(next week), (weekend)"
+月,"Month, moon","げつ, がつ
+getsu, gatsu","つき
+tsuki","月、月曜日
+tsuki, getsuyoubi
+(moon), (Monday)"
+年,Year,"ねん
+nen","とし
+toshi","今年、去年
+kotoshi, kyonen
+(this year), (last year)"
+時,"Time, hour","じ
+ji","とき
+toki","何時、時々
+nanji, tokidoki
+(what time), (sometimes)"
+間,Interval,"かん
+kan","あいだ, ま
+aida, ma","時間
+jikan
+(time)"
+分,"Minute, part, understand","ぶん, ふん, ぶ
+bun, fun, bu","わ(かる)
+wa(karu)","２分、 自分、 分かる
+nifun, jibun, wakaru
+(two minutes), (oneself), (to understand)"
+午,Noon,"ご
+go",ご,"午前
+gozen
+(morning, A.M.)"
+前,Before,"ぜん
+zen","まえ
+mae","前回、駅前
+zenkai, ekimae
+(last time), (front of the station)"
+後,After,"ご, こう
+go, kou","あと, うし
+ato, ushi","後で、後ろ
+atode, ushiro
+(after), (behind)"
+今,Now,"こん
+kon","いま
+ima","今回、今
+konkai, ima
+(this time), (now)"
+先,Previous,"せん
+sen","さき
+saki","先週、先生
+senshuu, sensei
+(last week), (teacher)"
+来,"Next, come","らい
+rai","く(る)
+ku(ru)","来月、来る
+raigetsu, kuru
+(next month), (to come)"
+毎,Every,"まい
+mai","ごと
+goto","毎日
+mainichi
+(every day)"
+人,Person,"じん, にん
+jin, nin","ひと
+hito","アメリカ人、外人
+amerikajin, gaijin
+(American person), (foreigner)"
+男,Man,"だん, なん
+dan, nan","おとこ
+otoko","男の子、男性
+otokonoko, dansei
+(boy), (male)"
+女,Woman,"じょ
+jo","おんな
+onna","女の子、女性
+onnanoko, josei
+(girl), (female)"
+子,Child,"し
+shi","こ
+ko","子供、菓子屋
+kodomo, kashiya
+(child), (kashiya)"
+母,Mother,"ぼ
+bo","はは
+haha","母
+haha
+(mother)"
+父,Father,"ふ
+fu","ちち
+chichi","父
+chichi
+(father)"
+友,Friend,"ゆう
+yuu","とも
+tomo","友達
+tomodachi
+(friend)"
+本,"Book, Origin","ほん
+hon","もと
+moto","日本、本当
+nihon, hontou
+(Japan), (reality)"
+気,Spirit,"き
+ki",n/a,"元気
+genki
+(lively, fine)"
+生,Life,"せい, しょう
+sei, shou","い(きる), う(まれる)
+i(kiru), u(mareru)","生徒、生きる
+seito, ikiru
+(pupil), (to live)"
+車,Car,"しゃ
+sha","くるま
+kuruma","車、電車
+kuruma, densha
+(car), (train)"
+語,Language,"ご
+go","かた(る)
+kata(ru)","英語、日本語
+eigo, nihongo
+(English), (Japanese)"
+耳,Ear,"じ
+ji","みみ
+mimi","耳
+mimi
+(ear)"
+手,Hand,"しゅ
+shu","て
+te","手紙、選手
+tegami, senshu
+(letter), (athlete)"
+足,Foot,"そく
+soku","あし、た(す)
+ashi, ta(su)","足
+ashi
+(foot)"
+目,Eye,"もく
+moku","め
+me","目
+me
+(eye)"
+口,Mouth,"こう
+kou","くち
+kuchi","入り口
+iriguchi
+(entrance)"
+店,Shop,"てん
+ten","みせ
+mise","喫茶店
+kissaten
+(coffee shop)"
+駅,Station,"えき
+eki",n/a,"駅弁
+ekiben
+(station bento)"
+道,Street,"どう
+dou","みち
+michi","道、道具
+michi, dougu
+(road), (tool)"
+国,Country,"こく
+koku","くに
+kuni","国、外国
+kuni, gaikoku
+(country), (foreign)"
+学,Study,"がく
+gaku","まな(ぶ)
+mana(bu)","大学、学ぶ
+daigaku, manabu
+(university), (to learn)"
+校,School,"こう
+kou",n/a,"学校
+gakkou
+(school)"
+名,Name,"めい, みょう
+mei, myou","な
+na","名前
+namae
+(name)"
+円,"Yen, circle","えん
+en","まる(い)
+maru(i)","円い
+marui
+(round)"
+半,Half,"はん
+han","なか(ば)
+naka(ba)","半分
+hanbun
+(half)"
+全,All,"ぜん
+zen","まった(く), すべて
+matta(ku), sube(te)","全然、全く
+zenzen, mattaku
+(completely, not at all), (really)"
+何,What,"か
+ka","なん, なに
+nan, nani","何、何日
+nani, nannichi
+(what), (what day)"
+火,Fire,"か
+ka","ひ
+hi","火、火曜日
+hi, kayoubi
+(fire), (Tuesday)"
+水,Water,"すい
+sui","みず
+mizu","水、水曜日
+mizu, suiyoubi
+(water), (Wednesday)"
+木,Tree,"もく
+moku","き
+ki","木、木曜日
+ki, mokuyoubi
+(tree), (Thursday)"
+金,"Money, gold","きん
+kin","かね
+kane","金、金曜日
+kane, kinyoubi
+(money), (Friday)"
+土,Earth,"ど, to","つち
+tsuchi","土地、土曜日
+tochi, doyoubi
+(land), (Saturday)"
+海,Sea,"かい
+kai","うみ
+umi","海、海外
+umi, kaigai
+(sea), (overseas)"
+川,River,"せん
+sen","かわ
+kawa","川
+kawa
+(river)"
+山,Mountain,"さん
+san","やま
+yama","山、富士山
+yama, fujisan
+(mountain), (Mt Fuji)"
+花,Flower,"か
+ka","はな
+hana","花火、花粉症
+hanabi, kafunshou
+(fireworks), (hay fever)"
+天,Heaven,"てん
+ten","あめ, あま
+ame, ama","天気
+tenki
+(weather)"
+空,"Sky, empty","くう
+kuu","そら, あける
+sora, a(keru)","空、空港
+sora, kuukou
+(sky), (airport)"
+晴,Sunny,"せい
+sei","は(れ)
+ha(re)","晴れ
+hare
+(sunny)"
+雨,Rain,"う
+u","あめ
+ame","雨
+ame
+(rain)"
+雪,Snow,"せつ
+setsu","ゆき
+yuki","雪
+yuki
+(snow)"
+雲,Cloud,"うん
+un","くも
+kumo","曇り
+kumori
+(cloudy)"
+風,Wind,"ふう
+fuu","かぜ
+kaze","風、台風
+kaze, taifuu
+(wind), (taiphoon)"
+電,Electricity,"でん
+den",n/a,"電気
+denki
+(electricity)"
+外,Outside,"がい
+gai","そと,はず(れる)
+soto, hazu(reru)","外、外国
+soto, gaikoku
+(outside), (foreign country)"
+内,Inside,"ない
+nai","うち
+uchi","内、車内
+uchi, shanai
+(inside), (inside the car/train)"
+上,Above,"じょう
+jou","うえ, あ(げる)
+ue, a(geru)","上、上手
+ue, jouzu
+(above), (good at)"
+下,Below,"か, げ
+ka, ge","した、く(だる)
+shita, ku(daru)","下、下さい
+shita, kudasai
+(below), (please)"
+右,Right,"ゆう
+yuu","みぎ
+migi","右
+migi
+(right)"
+左,Left,"さ
+sa","ひだり
+hidari","左
+hidari
+(left)"
+中,Middle,"ちゅう, じゅう
+chuu, juu","なか
+naka","中、中学校
+naka, chuugakkou
+(middle, in), (junior high school)"
+北,North,ほく,"きた
+kita","北
+kita
+(north)"
+西,West,"せい, さい
+sei, sai","にし
+nishi","西
+nishi
+(west)"
+東,East,"とう
+tou","ひがし
+higashi","東、東京
+higashi, toukyou
+(East), (Tokyo)"
+南,South,"なん
+nan","みなみ
+minami","南
+minami
+(south)"
+見,See,"けん
+ken","み(る)
+mi(ru)","見る、見せる
+miru, miseru
+(to see), (to show)"
+聞,Hear,"もん, ぶん
+mon, bun","き(く)
+ki(ku)","聞く
+kiku
+(to listen, to hear)"
+書,Write,"しょ
+jo","か(く)
+ka(ku)","書く、辞書
+kaku, jisho
+(to write), (dictionary)"
+言,Say,"げん
+gen","い(う)
+i(u)","言う
+iu
+(to say)"
+話,Talk,"わ
+wa","はなし, はな(す)
+hanashi, hana(su)","話す、電話
+hanasu, denwa
+(to talk), (telephone)"
+読,Read,"どく
+doku","よ(む)
+yo(mu)","読む
+yomu
+(to read)"
+行,Go,"こう
+kou","い(く), おこな(う)
+i(ku), okona(u)","行く、銀行
+iku, ginkou
+(to go), (bank)"
+買,Buy,"ばい
+bai","か(う)
+ka(u)","買う、買い物
+kau, kaimono
+(to buy), (shopping)"
+出,Exit,"しゅつ
+shuu","で(る), だ(す)
+de(ru), da(su)","出る、出口
+deru, deguchi
+(to exit), (exit)"
+入,"Enter, put in","にゅう
+nyuu","はい(る), い(れる)
+hai(ru), i(reru)","入る、立ち入り禁止
+(to enter), (no entry)"
+食,Eat,"しょく
+shoku","た(べる)
+ta(beru)","食べる、食事
+taberu, shokuji
+(to eat), (meal)"
+飲,Drink,"いん
+in","の(む)
+no(mu)","飲む、飲み物
+nomu, nomimono
+(to drink), (beverage)"
+休,Rest,"きゅう
+kyuu","やす(む), やす(み)
+yasu(mu), yasu(mi)","休む、休日
+yasumu, kyuujitsu
+(to rest), (holiday)"
+会,Meet,"かい
+kai","あ(う)
+a(u)","会う、会社
+au, kaisha
+(to meet), (company)"
+多,A lot,"た
+ta","おお(い)
+oo(i)","多い、多分
+ooi, tabun
+(many), (probably)"
+少,A little,"しょう
+shou","すこ(し), すく(ない)
+suko(shi), suku(nai)","少し
+sukoshi
+(a little)"
+古,Old,"こ
+ko","ふる(い)
+furu(i)","古い
+furui
+(old)"
+新,New,"しん
+shin","あたら(しい)
+atara(shii)","新しい、新聞
+atarashii, shinbun
+(new), (newspaper)"
+大,Big,"だい, たい
+dai, tai","おお(きい)
+oo(kii)","大きい、大変
+ookii, taihen
+(big), (very, terribly)"
+小,Small,"しょう
+shou","ちい(さい)、こ
+chii(sai), ko","小さい
+chiisai
+(small)"
+長,"Long, leader","ちょう
+chou","なが(い)
+naga(i)","長い、部長
+nagai, buchou
+(long), (manager)"
+短,Short,"たん
+tan","みじか(い)
+mijika(i)","短い
+mijikai
+(short)"
+遠,Far,"えん
+en","とお(い)
+too(i)","遠い
+tooi
+(far)"
+近,Near,"きん, こん
+kin, kon","ちか(い)
+chika(i)","近い、近く
+chikai, chikaku
+(close), (near)"
+白,White,"はく
+haku","しろ, しろ(い)
+shiro, shiro(i)","白い、面白い
+shiroi, omoshiroi
+(white), (interesting)"
+黒,Black,"こく
+koku","くろ、くろ(い)
+kuro, kuro(i)","黒、真っ黒
+kuro, makkuro
+(black), (pitch black)"
+高,"Expensive, high","こう
+kou","たか(い)
+taka(i)","高い
+takai
+(expensive, tall)"
+安,"Cheap, safety","あん
+an","やす(い)
+yasu(i)","安い、安心
+yasui, anshin
+(cheap), (relief)"
